@@ -3,7 +3,7 @@
 - 🔭 I am Frontend Developer.
 - 🌱 I’m currently learning  React.
 - 💬 Ask me anything about IT.
-- 📫 How to reach me:  hilmikale3139@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/hilmi-kale-b88702278/ ||hilmikale3139@gmail.com
 
 
 
