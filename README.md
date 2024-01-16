@@ -1,7 +1,7 @@
 ### Hi, I'm Hilmi 👋
 
 - 🔭 I am Frontend Developer.
-- 🌱 I’m currently learning  React.
+- 🌱 I’m currently learning  Next.js.
 - 💬 Ask me anything about IT.
 - 📫 How to reach me: hilmikale3139@gmail.com
 
