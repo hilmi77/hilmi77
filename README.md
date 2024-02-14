@@ -3,7 +3,7 @@
 - 🔭 I am Frontend Developer.
 - 🌱 I’m currently learning  Next.js.
 - 💬 Ask me anything about IT.
-- 📫 How to reach me: hilmikale3139@gmail.com
+- 📫 How to reach me: hilmikale77@gmail.com
 
 
 
