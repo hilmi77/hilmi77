@@ -20,7 +20,8 @@
 ## About
 
 - I build fast, accessible, and maintainable interfaces for digital products.
-- My work usually focuses on dashboards, authentication flows, data-heavy screens, and scalable frontend systems.
+- At Davinci, I work on frontend systems for operations-heavy products, including dashboards, reservations, orders, stock flows, accounting screens, user activity tracking, and internal management panels.
+- I also contribute to backend-connected product workflows, shaping API-driven features and tooling that support reporting, operational control, and cross-team processes.
 - I care about clean component architecture, performance, and developer experience as much as visual quality.
 - Alongside frontend development, I also work comfortably with Node.js and Python when projects need backend or tooling support.
 
