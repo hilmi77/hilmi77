@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I build products end-to-end — from MongoDB / PostgreSQL schemas and real-time APIs to admin panels and mobile apps that teams use every day.
+  4+ years of building products end-to-end — from MongoDB / PostgreSQL schemas and real-time APIs to admin panels and mobile apps that teams use every day.
 </p>
 
 <p align="center">
